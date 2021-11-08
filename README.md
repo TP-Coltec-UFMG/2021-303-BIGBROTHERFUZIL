@@ -1,5 +1,11 @@
 # BIG BROTHER FUZIL
 
+## Grupo 
+* João Victor Rodrigues
+* Pedro Henrique Chaves
+* Rafael Martins
+* Vitória de Souza 
+
 ## O que é?
 
 O Big Brother Fuzil (nome provisório) é um jogo de fps numa plataforma 2D. Os personagens, representados por personagens icônicos da mídia, serão escolhidos pelo jogador, sendo o objetivo do jogo acabar com as vidas do adversário.
