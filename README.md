@@ -24,7 +24,8 @@ O Big Brother Fuzil (nome provisório) é um jogo de luta e tiro numa plataforma
 ## Acessibilidade do Jogo
 * Tamanho da fonte;
 * Uso de fonte não serifada; 
-* Descrição em áudio das opções do menu;
+* Descrição em áudio das opções do menu e dos acontecimentos do jogo;
+* Opções diferentes de cores
 
 ### Observação
 * Pretende-se adicionar modos de jogo para os diferentes tipos de daltonismo e navegação por teclas;
