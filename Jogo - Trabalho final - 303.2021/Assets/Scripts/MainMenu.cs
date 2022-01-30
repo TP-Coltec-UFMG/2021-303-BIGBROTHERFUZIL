@@ -7,15 +7,12 @@ public class MainMenu : MonoBehaviour
 {
     public void StartGame()
     {
-        // Aqui, irá pra outra tela, mas ainda não fizemos essa parte.
-        Debug.Log("Jogo em construcao.");
+        Time.timeScale = 1f;
         SceneManager.LoadScene("GameLevel");
     }
 
     public void Exit()
     {
-        // Aqui, irá pra outra tela, mas ainda não fizemos essa parte.
-        Debug.Log("SAIR.");
         Application.Quit();
     }
 }

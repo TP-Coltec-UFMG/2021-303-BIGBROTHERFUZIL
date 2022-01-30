@@ -7,6 +7,9 @@ TagManager:
   - "Bot\xE3o"
   - Ativo
   - Titulo
+  - Enemy
+  - Normal
+  - Pequeno
   layers:
   - Default
   - TransparentFX
@@ -16,7 +19,7 @@ TagManager:
   - UI
   - Player
   - Ground
-  - 
+  - Enemy
   - 
   - 
   - 
